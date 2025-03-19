@@ -13,7 +13,7 @@ Full-Stack Test Automation Portfolio to show my knowledge on multiple levels and
 ### Built With:
 Languages: Python, JavaScript
 
-Frameworks/Tools: Selenium, JMeter, Postman, Appium, Cypress, Playwright
+Frameworks/Tools: Selenium, JMeter, Rest Assured, Postman, Appium, Cypress, Playwright
 CI/CD 
 
 Tools: GitHub Actions, Jenkins
@@ -37,14 +37,18 @@ Usando JMeter, Java e Mockoon
   * Nessa mesma pasta esta disponibilizado um documento com a análise do relatório.
 
 
-## API Testing
+## API Testing - Postman
+#DOING
+Usando Postman, JavaScript, Newman e Mockoon
 
+## API Testing - Rest Assured
+#TODO
 
 ## End-to-End (E2E) Testing
-
+#TODO
 
 ## Mobile Testing
-
+#TODO
 
 ## CI/CD Pipeline Integration
-
+#TODO
