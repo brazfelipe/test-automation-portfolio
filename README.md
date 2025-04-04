@@ -38,7 +38,7 @@ Usando JMeter, Java e Mockoon
 
 
 ## API Testing - Postman
-#DOING
+#PAUSED
 Usando Postman, JavaScript, Newman e Mockoon
 
 
@@ -46,7 +46,8 @@ Usando Postman, JavaScript, Newman e Mockoon
 #TODO
 
 ## End-to-End (E2E) Testing
-#TODO
+#DOING
+Cucumber com Selenium/Java
 
 ## Mobile Testing
 #TODO

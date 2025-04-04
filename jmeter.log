@@ -1,0 +1,43 @@
+2025-03-11 15:46:32,543 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2025-03-11 15:46:32,634 INFO o.a.j.JMeter: Loading user properties from: C:\Users\User\jmeter-5.6.3\bin\user.properties
+2025-03-11 15:46:32,650 INFO o.a.j.JMeter: Loading system properties from: C:\Users\User\jmeter-5.6.3\bin\system.properties
+2025-03-11 15:46:32,713 INFO o.a.j.JMeter: Copyright (c) 1998-2024 The Apache Software Foundation
+2025-03-11 15:46:32,714 INFO o.a.j.JMeter: Version 5.6.3
+2025-03-11 15:46:32,715 INFO o.a.j.JMeter: java.version=1.8.0_441
+2025-03-11 15:46:32,715 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2025-03-11 15:46:32,715 INFO o.a.j.JMeter: os.name=Windows 10
+2025-03-11 15:46:32,715 INFO o.a.j.JMeter: os.arch=amd64
+2025-03-11 15:46:32,715 INFO o.a.j.JMeter: os.version=10.0
+2025-03-11 15:46:32,716 INFO o.a.j.JMeter: file.encoding=Cp1252
+2025-03-11 15:46:32,716 INFO o.a.j.JMeter: java.awt.headless=null
+2025-03-11 15:46:32,716 INFO o.a.j.JMeter: Max memory     =1073741824
+2025-03-11 15:46:32,717 INFO o.a.j.JMeter: Available Processors =4
+2025-03-11 15:46:32,753 INFO o.a.j.JMeter: Default Locale=English (EN)
+2025-03-11 15:46:32,755 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2025-03-11 15:46:32,755 INFO o.a.j.JMeter: JMeterHome=C:\Users\User\jmeter-5.6.3
+2025-03-11 15:46:32,755 INFO o.a.j.JMeter: user.dir  =C:\Users\User\workspace\test-automation-portfolio
+2025-03-11 15:46:32,755 INFO o.a.j.JMeter: PWD       =C:\Users\User\workspace\test-automation-portfolio
+2025-03-11 15:46:37,305 INFO o.a.j.JMeter: IP: 192.168.56.1 Name: DESKTOP-94BKCAB FullName: DESKTOP-94BKCAB
+2025-03-11 15:46:37,331 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2025-03-11 15:46:38,297 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2025-03-11 15:47:35,290 INFO o.a.j.g.JMeterUIDefaults: Applying font scale factor: 1.1
+2025-03-11 15:47:38,625 INFO o.a.j.g.JMeterUIDefaults: Applying font scale factor: 1.21
+2025-03-11 15:47:40,914 INFO o.a.j.g.JMeterUIDefaults: Applying font scale factor: 1.3310001
+2025-03-11 15:47:46,164 INFO o.a.j.s.FileServer: Default base='C:\Users\User\workspace\test-automation-portfolio'
+2025-03-11 15:47:46,169 INFO o.a.j.g.a.Load: Loading file: C:\Users\User\workspace\test-automation-portfolio\performance-testing\jmeter-mockoon\load-testing\demo-api-load-testing.jmx
+2025-03-11 15:47:46,169 INFO o.a.j.s.FileServer: Set new base='C:\Users\User\workspace\test-automation-portfolio\performance-testing\jmeter-mockoon\load-testing'
+2025-03-11 15:47:46,432 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2025-03-11 15:47:46,467 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2025-03-11 15:47:46,469 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2025-03-11 15:47:46,473 INFO o.a.j.s.SaveService: Loading file: C:\Users\User\workspace\test-automation-portfolio\performance-testing\jmeter-mockoon\load-testing\demo-api-load-testing.jmx
+2025-03-11 15:47:46,519 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-03-11 15:47:46,519 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-03-11 15:47:46,519 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-03-11 15:47:46,519 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-03-11 15:47:46,520 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2025-03-11 15:47:46,520 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2025-03-11 15:47:47,906 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2025-03-11 15:47:47,907 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to UTF-8
+2025-03-11 15:47:47,908 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2025-03-11 15:47:47,908 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2025-03-11 15:47:48,918 INFO o.a.j.s.FileServer: Set new base='C:\Users\User\workspace\test-automation-portfolio\performance-testing\jmeter-mockoon\load-testing'

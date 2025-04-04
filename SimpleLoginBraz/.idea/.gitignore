@@ -1,6 +1,3 @@
 # Default ignored files
 /shelf/
 /workspace.xml
-/selenium-java-4.30.0
-*.pem
-*.key
